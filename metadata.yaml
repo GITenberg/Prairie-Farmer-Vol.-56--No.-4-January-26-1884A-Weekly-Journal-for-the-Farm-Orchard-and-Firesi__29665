@@ -1,0 +1,30 @@
+_repo: Prairie-Farmer-Vol.-56--No.-4-January-26-1884A-Weekly-Journal-for-the-Farm-Orchard-and-Firesi__29665
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Various
+    alias: Verschillende
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_bookshelf: Prairie Farmer
+gutenberg_issued: '2009-08-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29665'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Farm life -- Periodicals'
+- !lcc 'S'
+- !lcsh 'United States -- Rural conditions -- Periodicals'
+- !lcsh 'Agriculture -- United States -- Periodicals'
+title: 'Prairie Farmer, Vol. 56: No. 4, January 26, 1884
+
+  A Weekly Journal for the Farm, Orchard and Fireside'
+url: http://www.gutenberg.org/ebooks/29665
